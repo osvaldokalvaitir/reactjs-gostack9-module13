@@ -21,7 +21,8 @@
       "**/__tests__/**/*.test.js"
     ],
     "setupFilesAfterEnv": [
-      "@testing-library/jest-dom/extend-expect"
+      "@testing-library/jest-dom/extend-expect",
+      "jest-localstorage-mock"
     ],
     "moduleNameMapper": {
       "^~/(.*)$": "<rootDir>/src/$1"
@@ -41,6 +42,7 @@
   },
   "devDependencies": {
     "@types/jest": "^25.1.4",
+    "jest-localstorage-mock": "^2.4.0",
     "react-app-rewired": "^2.1.5"
   }
 }
