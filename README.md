@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Testes no ReactJS usando react-app-rewired, @types/jest, React Testing Library, jest-dom e jest-localstorage-mock.
+Testes no ReactJS usando react-app-rewired, @types/jest, React Testing Library, jest-dom, jest-localstorage-mock e Redux.
 
 ## Índice
 
@@ -52,6 +52,10 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [jest-localstorage-mock](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/jest-localstorage-mock.md)
 
+- [React Redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-redux.md)
+
 - [React Testing Library](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@testing-library-react.md)
 
 - [react-app-rewired](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-app-rewired.md)
+
+- [Redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux.md)
