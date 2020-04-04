@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Testes no ReactJS usando react-app-rewired, @types/jest, React Testing Library, jest-dom, jest-localstorage-mock, Redux, Redux-Saga, Immer e Axios.
+Testes no ReactJS usando react-app-rewired, @types/jest, React Testing Library, jest-dom, jest-localstorage-mock, Redux, Redux-Saga, Immer, Axios e axios-mock-adapter.
 
 ## Índice
 
@@ -44,9 +44,11 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### Bibliotecas
 
+- [@types/jest](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@types-jest.md)
+
 - [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
 
-- [@types/jest](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@types-jest.md)
+- [axios-mock-adapter](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios-mock-adapter.md)
 
 - [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
 
