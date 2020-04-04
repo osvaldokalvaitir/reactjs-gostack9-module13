@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Testes no ReactJS usando react-app-rewired, @types/jest, React Testing Library, jest-dom, jest-localstorage-mock, Redux, Redux-Saga, Immer, Axios e axios-mock-adapter.
+Testes no ReactJS usando React Testing Library, jest-dom, @types/jest, jest-localstorage-mock, Redux, Redux-Saga, Immer, Axios, axios-mock-adapter e react-app-rewired.
 
 ## Índice
 
