@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Testes no ReactJS usando react-app-rewired, @types/jest, React Testing Library, jest-dom, jest-localstorage-mock, Redux e Immer.
+Testes no ReactJS usando react-app-rewired, @types/jest, React Testing Library, jest-dom, jest-localstorage-mock, Redux, Redux-Saga, Immer e Axios.
 
 ## Índice
 
@@ -44,6 +44,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### Bibliotecas
 
+- [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
+
 - [@types/jest](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@types-jest.md)
 
 - [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
@@ -61,3 +63,5 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [react-app-rewired](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-app-rewired.md)
 
 - [Redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux.md)
+
+- [Redux-Saga](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux-saga.md)
