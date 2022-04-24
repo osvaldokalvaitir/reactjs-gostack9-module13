@@ -1,69 +1,57 @@
-# ReactJS - Módulo 13 (Novo)
+<h1 align="center">
+    <img src="/.github/assets/logo.png"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/reactjs-modulo13-novo/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/reactjs-modulo13-novo.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/reactjs-modulo13-novo.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-modulo13-novo.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-modulo13-novo.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/reactjs-modulo13-novo.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/reactjs-modulo13-novo.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  ReactJS - GoStack 9 Module 13
+</h3>
 
-Testes no ReactJS usando React Testing Library, jest-dom, @types/jest, jest-localstorage-mock, Redux, Redux-Saga, Immer, Axios, axios-mock-adapter e react-app-rewired.
+<p align="center">
+  :test_tube: Testing in the ReactJS using React Testing Library, jest-dom, @types/jest, jest-localstorage-mock, Redux, Redux-Saga, Immer, Axios, axios-mock-adapter and react-app-rewired
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-gostack9-module13.svg?color=00A83A">
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-gostack9-module13.svg?color=00A83A">
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Execução do Projeto](#execução-do-projeto)
+<p align="center">
+  <a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+## :wrench: Install and run
 
-  - [Bibliotecas](#bibliotecas)
+Open terminal:
 
-## Desenvolvimento
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/reactjs-gostack9-module13
 
-### Configuração do Ambiente
+# Entry in folder
+cd reactjs-gostack9-module13
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+# Install deps with npm or yarn
+npm install | yarn
 
-### Instalação do Projeto
+# Run tests
+npm test | yarn test
+```
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
+## :memo: License
 
-### Execução do Projeto
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga `Execução de Testes de Projeto`.
+---
 
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [@types/jest](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@types-jest.md)
-
-- [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
-
-- [axios-mock-adapter](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios-mock-adapter.md)
-
-- [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
-
-- [Immer](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/immer.md)
-
-- [jest-dom](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@testing-library-jest-dom.md)
-
-- [jest-localstorage-mock](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/jest-localstorage-mock.md)
-
-- [React Redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-redux.md)
-
-- [React Testing Library](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@testing-library-react.md)
-
-- [react-app-rewired](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-app-rewired.md)
-
-- [Redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux.md)
-
-- [Redux-Saga](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux-saga.md)
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
